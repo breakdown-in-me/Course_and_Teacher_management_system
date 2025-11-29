@@ -1,0 +1,14 @@
+C:\Users\Huawei\Desktop\Course and Teacher management system OOP\bin\Debug\net9.0\Course and Teacher management system OOP.exe
+C:\Users\Huawei\Desktop\Course and Teacher management system OOP\bin\Debug\net9.0\Course and Teacher management system OOP.deps.json
+C:\Users\Huawei\Desktop\Course and Teacher management system OOP\bin\Debug\net9.0\Course and Teacher management system OOP.runtimeconfig.json
+C:\Users\Huawei\Desktop\Course and Teacher management system OOP\bin\Debug\net9.0\Course and Teacher management system OOP.dll
+C:\Users\Huawei\Desktop\Course and Teacher management system OOP\bin\Debug\net9.0\Course and Teacher management system OOP.pdb
+C:\Users\Huawei\Desktop\Course and Teacher management system OOP\obj\Debug\net9.0\Course and Teacher management system OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huawei\Desktop\Course and Teacher management system OOP\obj\Debug\net9.0\Course and Teacher management system OOP.AssemblyInfoInputs.cache
+C:\Users\Huawei\Desktop\Course and Teacher management system OOP\obj\Debug\net9.0\Course and Teacher management system OOP.AssemblyInfo.cs
+C:\Users\Huawei\Desktop\Course and Teacher management system OOP\obj\Debug\net9.0\Course and Teacher management system OOP.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\Desktop\Course and Teacher management system OOP\obj\Debug\net9.0\Course and Teacher management system OOP.dll
+C:\Users\Huawei\Desktop\Course and Teacher management system OOP\obj\Debug\net9.0\refint\Course and Teacher management system OOP.dll
+C:\Users\Huawei\Desktop\Course and Teacher management system OOP\obj\Debug\net9.0\Course and Teacher management system OOP.pdb
+C:\Users\Huawei\Desktop\Course and Teacher management system OOP\obj\Debug\net9.0\Course and Teacher management system OOP.genruntimeconfig.cache
+C:\Users\Huawei\Desktop\Course and Teacher management system OOP\obj\Debug\net9.0\ref\Course and Teacher management system OOP.dll

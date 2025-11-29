@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Course and Teacher management system OOP/1.0.0": {
+        "runtime": {
+          "Course and Teacher management system OOP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Course and Teacher management system OOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
